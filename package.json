@@ -1,0 +1,37 @@
+{
+  "name": "smart-scheduler",
+  "version": "1.0.0",
+  "description": "AI-Powered Daily Task Management & Intelligent Scheduling System",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "dev": "next dev",
+    "build": "next build",
+    "test": "jest",
+    "lint": "eslint . --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "tailwindcss": "^3.3.0",
+    "recharts": "^2.10.0",
+    "axios": "^1.6.0",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/node": "^20.0.0",
+    "jest": "^29.5.0",
+    "eslint": "^8.40.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "license": "MIT",
+  "author": "Eentost",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eentost/smart-scheduler.git"
+  }
+}
