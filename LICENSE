@@ -1,0 +1,68 @@
+# Dual Licensing Model
+
+## 1. Commercial License (Enterprise License)
+
+**License Fee:** $500 per instance per year
+
+This license grants organizations, enterprises, and corporations the right to use, modify, and integrate Smart Scheduler into their commercial products and services.
+
+**Permitted Uses:**
+- Use in commercial products and services
+- Modification of the source code
+- Integration with other commercial systems
+- Internal and external deployment
+- Support and maintenance rights
+
+**Restrictions:**
+- Source code must not be disclosed or distributed
+- Derivative works are owned by the licensee
+- No redistribution of the software without permission
+
+**Payment Terms:**
+- Annual payment of $500 per instance
+- License is non-exclusive
+- License can be renewed annually
+
+For commercial licensing inquiries, please contact the project maintainer.
+
+## 2. Research License (Free for Non-Commercial Research)
+
+**License Fee:** Free
+
+This license grants educational institutions, research organizations, and individual researchers the right to use Smart Scheduler for non-commercial research, educational, and academic purposes.
+
+**Permitted Uses:**
+- Use in academic research
+- Educational purposes in universities and schools
+- Peer-reviewed publication of research results
+- Modification for research purposes
+- Non-commercial deployment
+- Internal institutional use
+
+**Restrictions:**
+- Cannot be used for commercial purposes or services
+- Cannot be integrated into commercial products
+- Source code modifications must be clearly documented
+- Research results must acknowledge this project
+
+**Conditions:**
+- Academic or research affiliation verification may be required
+- Attribution and proper citation required in all publications
+- Any modifications must be made available to the original project (optional but encouraged)
+
+## 3. General Terms
+
+**Disclaimer:**
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+**Governing Law:**
+This license is governed by applicable laws in the jurisdiction where the project maintainer resides.
+
+**Termination:**
+Licenses may be terminated if the licensee violates the terms of the agreement.
+
+**Determining Use Type:**
+- **Commercial Use:** Any use that generates revenue or is part of a for-profit operation
+- **Research Use:** Use for academic study, scientific investigation, or educational purposes by accredited institutions or researchers
+
+For questions about which license applies to your use case, please contact the project maintainer.
